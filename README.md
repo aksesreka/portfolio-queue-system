@@ -62,7 +62,6 @@ Built on Laravel 12 + Pusher, deployed on Hostinger shared hosting.
 | Frontend | Blade + Tailwind CSS |
 | Real-Time | Pusher WebSockets (cluster ap1) |
 | Database | MySQL 8 |
-| Hosting | Hostinger Shared (cPanel) |
 | Testing | PHPUnit — 45 feature tests |
 
 ---
